@@ -31,3 +31,12 @@
 
 Testing, first line to test git and remember all this stuff...
 
+Day 0: June 23, Friday
+
+Progress: Did exercise 40 on LPTHW, didn't master it though. Intend on mastering
+it next.
+
+Thoughts: I really hope I stick to this. I know I'm adding in tutorials and such
+but since I'm such a lazy bum I think it is both required and a stepping stone.
+
+
