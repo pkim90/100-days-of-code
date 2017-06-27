@@ -40,3 +40,12 @@ Thoughts: I really hope I stick to this. I know I'm adding in tutorials and such
 but since I'm such a lazy bum I think it is both required and a stepping stone.
 
 
+Day 1: June 27, Tuesday
+
+Progress: did exercise 42 on lpthw, got some practice with classes and objects
+and sort-of understand it but not really. Will need more practice.
+
+Thoughts: I skipped a bunch of days cause weekend and you know...lazy and stuff.
+Will try not to. In fact I didnt even finish my hour because my eyes are weary.
+
+
