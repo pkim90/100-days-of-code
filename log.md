@@ -39,6 +39,7 @@ it next.
 Thoughts: I really hope I stick to this. I know I'm adding in tutorials and such
 but since I'm such a lazy bum I think it is both required and a stepping stone.
 
+------
 
 Day 1: June 27, Tuesday
 
@@ -47,5 +48,21 @@ and sort-of understand it but not really. Will need more practice.
 
 Thoughts: I skipped a bunch of days cause weekend and you know...lazy and stuff.
 Will try not to. In fact I didnt even finish my hour because my eyes are weary.
+
+-----
+
+Day 2: June 29, Thursday
+
+Progress: Decided to trash lpthw and the java thing...Just really didn't 
+interest me and doing it would have taken much more effort for reward than
+doing something else that is interesting. Decided to go through with 
+the youtube thing "Think like a programmer" by v anton spraul. Did the problem
+of permutation on the city utilities.
+
+Thoughts: Proud of myself, there was lots of debugging. I did the pseudocode on
+notebook and then wrote it down and googled solutions to certain issues...the
+whole 9 yards.
+
+------
 
 
