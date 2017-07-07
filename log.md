@@ -65,4 +65,28 @@ whole 9 yards.
 
 ------
 
+Day 3: July 3, Monday
+
+Progress: Worked on MIT 6.00 at the autoshop while getting john's inspection.
+Made lots of progress on the chicken nugget assignment, got the pseudocode and
+everything. Didn't finish it though, car was done.
+
+Thoughts: Proud. This is something I couldn't do for hte longest time. I am
+quite sure that you use permutations to do it. I in fact copied his lecture 
+thing but it didn't work as well...Can't remember why.
+
+-------
+
+Day 4: July 7, Friday
+
+Progress: Finished the chicken nugget homework for MIT 6.00. Wow it was hard...
+My stuff didn't work because I didn't know you can use 'not in' to find stuff
+in lists and yeah....took a long time. Anyways finally finsihed it and proud.
+
+Thoughts: I spoke my thoughts in my progress for today. I want to get more done
+since I feel like it was a such a time dump and didn't get enough done but I'm
+proud nonetheless.
+
+--------
+
 
