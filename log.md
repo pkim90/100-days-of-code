@@ -89,4 +89,16 @@ proud nonetheless.
 
 --------
 
+Day 5: July 14, Friday
+
+Progress: Finished a couple of sections of TLAP. Finally did a recursion, and 
+I think it is getting easier. I'm not sure why recursion is so hard. I 
+understand it completely but its just so hard to make something recursive.
+Anyways, yeah proud of myself. And yes I'm getting through this code thing
+really slowly, sorry.
+
+Thoughts: Already logged it in my progress.
+
+----------
+
 
